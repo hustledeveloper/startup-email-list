@@ -11,8 +11,8 @@
 - kariyer@ozguryazilim.com.tr 
 - info@ones.com.tr
 - info@buficore.com
-ik@tai.com.tr
-- - bilgi@pikselbilisim.com
+- ik@tai.com.tr
+- bilgi@pikselbilisim.com
 - cv@arisavunma.com.tr 
 - info@usyazilim.com.tr
 - ik@fonetbt.com
@@ -23,22 +23,23 @@ ik@tai.com.tr
 - info@sebit.com.tr
 - upu@upu.io
 - info@startuphero.es
-- - infoctech@ctech.com.tr
-- - contact@nexoftmobile.com
+- infoctech@ctech.com.tr
+- contact@nexoftmobile.com
 - contact@timusnetworks.com
-- info@uni- yaz.com
-futureteknoloji@hs03.kep.tr
+- info@uni
+- yaz.com
+- futureteknoloji@hs03.kep.tr
 - info@anayurtteknoloji.com
 - cv@ikas.com
 - info@irgat.com.tr
-- - bilgi@mevzuattr.com
+- bilgi@mevzuattr.com
 - info@shopside.io
 - info@enocta.com
 - info@simsoft.com.tr
-- - bilgi@bilisimgaraji.com
+- bilgi@bilisimgaraji.com
 - info@ankaref.com
-- - bilgi@netcad.com
-- - bilgi@dia.com.tr
+- bilgi@netcad.com
+- bilgi@dia.com.tr
 - ankara@yenasoft.com
 - destek@prota.com.tr
 - info@siyaharge.com
@@ -60,7 +61,7 @@ futureteknoloji@hs03.kep.tr
 - career@tualcom.com.tr
 - info@ekinokssoftware.com
 - info@globalnet.com.tr
-- - contact@beamteknoloji.com
+- contact@beamteknoloji.com
 - info@cstech.com.tr
 - info@mavinci.com.tr
 - info@barakatech.com
@@ -72,16 +73,17 @@ futureteknoloji@hs03.kep.tr
 - info@erelbim.com.tr
 - info@vegayazilim.com.tr
 - info@seneka.com.tr
-- - bilgi@sono.com.tr
-- - bilgi@keyyazilim.com
+- bilgi@sono.com.tr
+- ilgi@keyyazilim.com
 - info@solvera.com.tr
 - info@rsabilisim.com
 - destek@12yazilim.com
 - info@nomadtech.com.tr
-- ik@data- boss.com.tr 
+- ik@data
+- boss.com.tr 
 - info@proino.com
 - iletisim@fdnsoft.com
-- - bilgi@ercsoft.com.tr
+- bilgi@ercsoft.com.tr
 - ik@bilisim.com.tr
 - info@t2.com.tr
 - info@onsdanismanlik.com
