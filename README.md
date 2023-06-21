@@ -213,4 +213,8 @@
 - lentatek@lentatek.com
 - verisis@verisis.com.tr
 - info@taru.com.tr
-
+- ik@data-boss.com.tr 
+- info@uni-yaz.com
+- iletisim@ekinoks-ag.com.tr
+- info@filkon-rf.com
+- gfds@gfds-inc.com
