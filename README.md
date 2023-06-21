@@ -1,5 +1,5 @@
-# Email listesi:
-
+# Startup Email listesi:
+- Kurumlara Not: Eğer bu listede mail adresiniz varsa ve gelen başvurulardan rahatsız olduysanız bana kaldırmam için ulaşın, mail adresim: omer.eren.dev@gmail.com
 ## LinkedIn List
 - info@futuretech.com.tr
 - info@picussecurity.com
