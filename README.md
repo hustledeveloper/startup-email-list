@@ -26,8 +26,7 @@
 - infoctech@ctech.com.tr
 - contact@nexoftmobile.com
 - contact@timusnetworks.com
-- info@uni
-- yaz.com
+- info@uni-yaz.com
 - futureteknoloji@hs03.kep.tr
 - info@anayurtteknoloji.com
 - cv@ikas.com
@@ -79,8 +78,7 @@
 - info@rsabilisim.com
 - destek@12yazilim.com
 - info@nomadtech.com.tr
-- ik@data
-- boss.com.tr 
+- ik@data-boss.com.tr 
 - info@proino.com
 - iletisim@fdnsoft.com
 - bilgi@ercsoft.com.tr
@@ -100,7 +98,6 @@
 - info@mctek.com.tr
 - info@prolizyazilim.com
 - bilgi@yt.com.tr
-- veli@aky- tech.com
 - info@ogs.as
 - info@argusteknoloji.com
 - info@ajna.com.tr
@@ -115,7 +112,6 @@
 - info@bdcozum.com.tr
 - biokido@biokido.com
 - info@daysoft.com.tr
-- iletisim@ekinoks- ag.com.tr
 - info@eduglobes.com
 - hello@etutec.com
 - info@fastsoft.com.tr
@@ -188,7 +184,6 @@
 - bilgi@bamateknoloji.com
 - ayyazilim@ayyazilim.com.tr
 - info@electraic.com
-- info@filkon- rf.com
 - egitopya@egitopya.com
 - info@diastech.com.tr
 - info@sparkkalibrasyon.com.tr
@@ -207,7 +202,6 @@
 - space@gsatcom.com
 - info@gui.com.tr
 - info@geosys.com.tr
-- gfds@gfds- inc.com
 - iletisim@i4.com.tr
 - info@pixofun.com
 - info@frumatic.com
