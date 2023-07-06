@@ -8,7 +8,7 @@
 - info@evreka.co
 - talent@evreka.co
 - info@abisteknoloji.com.tr
-- kariyer@ozguryazilim.com.tr 
+- kariyer@ozguryazilim.com.tr, bilgi@ozguryazilim.com.tr
 - info@ones.com.tr
 - info@buficore.com
 - ik@tai.com.tr
@@ -45,7 +45,7 @@
 - fonet@fonetbt.com
 - hr.tr@icterra.com
 - buyutech@buyutech.com.tr
-- info@crssoft.com
+- info@crssoft.com, ik@crssoft.com, hr@crssoft.com 
 - ik@forte.com.tr
 - ik@proven.com.tr
 - info@lstyazilim.com
@@ -85,6 +85,82 @@
 - ik@bilisim.com.tr
 - info@t2.com.tr
 - info@onsdanismanlik.com
+- info@adayazilim.com
+- info@adeo.com.tr, ik@adeo.com.tr, hr@adeo.com.tr	
+- info@arentech.com.tr, ik@arentech.com.tr
+- info@arunayazilim.com
+- info@aryazilim.com.tr
+- info@atlasyazilim.com.tr, ik@atlasyazilim.com.tr
+- info@bil-gel.com.tr
+- info@caretta.net, ik@caretta.net	
+- info@coden.com.tr
+- info@codevist.com, ik@codevist.com	
+- info@cpm.com.tr
+- info@craftgate.io, ik@craftgate.io, hr@craftgate.io
+- info@cyberwise.com.tr, ik@cyberwise.com, hr@cyberwise.com	
+- info@datakod.com.tr
+- info@demircode.com, ik@demircode.com, hr@demircode.com	
+- info@eralpsoftware.com
+- info@evrim.com
+- info@fikayazilim.com
+- info@flexyazilim.com.tr
+- info@folyazilim.com
+- info@fykmobile.com
+- info@gaissecurity.com, ik@gaissecurity.com, hr@gaissecurity.com		
+- info@genyazilim.com
+- info@haratres.com
+- info@icyazilimdanismanlik.com
+- info@indbilisim.com.tr
+- info@innobase.com.tr, ik@innobase.com.tr, hr@innobase.com.tr		
+- info@intedo.com.tr
+- info@kartaca.com
+- info@kgteknoloji.com, ik@kgteknoloji.com
+- info@kion.com.tr, ik@kion.com.tr	
+- info@labdroids.com
+- info@lineersoft.com.tr, ik@lineersoft.com.tr
+- info@metania.co
+- info@modsoft.com.tr
+- info@netoloji.com, ik@netoloji.com	
+- info@nuevo.com.tr, ik@nuevo.com.tr, hr@nuevo.com.tr	
+- info@odya.com.tr, ik@odya.com.tr, hr@odya.com.tr
+- info@pixasoftware.com, ik@pixasoftware.com
+- info@planetyazilim.com
+- info@priviasecurity.com
+- info@senkron.net
+- info@smartin.com.tr
+- info@smartsis.com.tr
+- info@solidict.com, hr@solidict.com	
+- info@statikyazilim.com.tr
+- info@tlesoftware.com, hr@tlesoftware.com	
+- info@ydyazilim.com, ik@ydyazilim.com	
+- ik@ardgrup.com.tr	
+- ik@argusteknoloji.com	
+- ik@armadayazilim.com	
+- ik@basefy.com	
+- ik@gtech.com.tr, hr@gtech.com.tr	
+- ik@infina.com.tr	
+- ik@internative.net	
+- ik@kafein.com.tr	
+- ik@medronteknoloji.com, bilgi@medronteknoloji.com
+- ik@netaxtech.com, hr@netaxtech.com	
+- ik@peakup.org	
+- ik@rastyazilim.com	
+- ik@raven.com.tr	
+- ik@solviads.com, hr@solviads.com		
+- ik@titra.com.tr	
+- ik@uni-yaz.com	
+- hr@ddtech.com.tr	
+- hr@digieggs.com	
+- bilgi@keyyazilim.com	
+- hr@krontech.com	
+- hr@linktera.com	
+- hr@nebulabilisim.com.tr	
+- hr@protasoftware.com	
+- hr@rdc.com.tr	
+- hr@volosoft.com
+- bilgi@kaleyazilim.com.tr	
+- cv@vbt.com.tr
+- kariyer@ventura.com.tr	
 
 ## Teknokent Startupları Listesi
 - info@akdogan.tech
