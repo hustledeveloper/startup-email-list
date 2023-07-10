@@ -8,7 +8,7 @@
 - info@evreka.co
 - talent@evreka.co
 - info@abisteknoloji.com.tr
-- kariyer@ozguryazilim.com.tr, bilgi@ozguryazilim.com.tr- info@ones.com.tr
+- kariyer@ozguryazilim.com.tr, bilgi@ozguryazilim.com.tr, info@ones.com.tr
 - info@buficore.com
 - ik@tai.com.tr
 - bilgi@pikselbilisim.com
@@ -44,7 +44,7 @@
 - fonet@fonetbt.com
 - hr.tr@icterra.com
 - buyutech@buyutech.com.tr
-- info@crssoft.com, ik@crssoft.com, hr@crssoft.com - ik@forte.com.tr
+- info@crssoft.com, ik@crssoft.com, hr@crssoft.com, ik@forte.com.tr
 - ik@proven.com.tr
 - info@lstyazilim.com
 - info@crypttech.com
